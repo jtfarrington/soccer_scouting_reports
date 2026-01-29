@@ -4,11 +4,7 @@
 
 Access the complete scouting reports for each player:
 
-- **[David Da Costa - Scouting Report](DaCosta_Report.html)** - Portland Timbers | Left Midfielder | Overall: 7.2/10
-- **[Osman Bukari - Scouting Report](Bukari_Report.html)** - Austin FC | Right Winger | Overall: 6.0/10  
-- **[Max Arfsten - Scouting Report](ArfstenReport.html)** - Columbus Crew | Left Back/Utility | Overall: 6.8/10
-
-*Note: Download and open HTML files in your browser (Chrome, Firefox, or Edge recommended) for full interactive functionality.*
+Download and open HTML files in your browser (Chrome, Firefox, or Edge recommended) for full interactive functionality.*
 
 ## Overview
 
