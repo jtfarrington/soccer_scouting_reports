@@ -141,9 +141,6 @@ cython_debug/
 # *.csv
 # *.xls
 
-# HTML exports
-*.html
-
 # macOS
 .DS_Store
 .AppleDouble
