@@ -1,14 +1,18 @@
 # MLS Player Scouting Dashboard System
 
-## Interactive Dashboard Links
+## Player Dashboards
 
-Access the complete scouting reports for each player:
+Download comprehensive scouting reports:
 
-Download and open HTML files in your browser (Chrome, Firefox, or Edge recommended) for full interactive functionality.
+- [Max Arfsten Dashboard](https://github.com/jtfarrington/soccer_scouting_reports/releases/latest/download/ArfstenReport.html)
+- [Osman Bukari Dashboard](https://github.com/jtfarrington/soccer_scouting_reports/releases/latest/download/BukariReport.html)
+- [David Da Costa Dashboard](https://github.com/jtfarrington/soccer_scouting_reports/releases/latest/download/DaCostaReport.html)
 
-<a id="raw-url" href="https://raw.githubusercontent.com/jtfarrington/soccer_scouting_reports/main/DaCostaReport.html">Download FILE</a>
-<a id="raw-url" href="https://raw.githubusercontent.com/jtfarrington/soccer_scouting_reports/main/BukariReport.html">Download FILE</a>
-<a id="raw-url" href="https://raw.githubusercontent.com/jtfarrington/soccer_scouting_reports/main/ArfstenReport.html">Download FILE</a>
+Each dashboard contains:
+- Executive Summary with overall rating
+- Technical, Physical, Tactical, and Psychological evaluations
+- Match-by-match performance breakdown
+- Final recommendations
 
 ## Overview
 
