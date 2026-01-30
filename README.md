@@ -4,7 +4,11 @@
 
 Access the complete scouting reports for each player:
 
-Download and open HTML files in your browser (Chrome, Firefox, or Edge recommended) for full interactive functionality.*
+Download and open HTML files in your browser (Chrome, Firefox, or Edge recommended) for full interactive functionality.
+
+<a id="raw-url" href="https://raw.githubusercontent.com/jtfarrington/soccer_scouting_reports/main/DaCostaReport.html">Download FILE</a>
+<a id="raw-url" href="https://raw.githubusercontent.com/jtfarrington/soccer_scouting_reports/main/BukariReport.html">Download FILE</a>
+<a id="raw-url" href="https://raw.githubusercontent.com/jtfarrington/soccer_scouting_reports/main/ArfstenReport.html">Download FILE</a>
 
 ## Overview
 
